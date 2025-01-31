@@ -1,6 +1,9 @@
 <h1 align="center">
 <img width="40" valign="bottom" src="https://ultimatecourses.com/static/icons/javascript.svg">
 JavaScript DOM: Final Project
+
+  ![image](https://github.com/user-attachments/assets/cb30d8dc-bc3d-4cf9-91f8-91dff794ae2c)
+
 </h1>
 <h4 align="center">Final Project for the Ultimate Courses <a href="https://ultimatecourses.com/learn/javascript-dom" target="_blank">JavaScript DOM course</a>.</h4>
 
